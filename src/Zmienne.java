@@ -35,5 +35,7 @@ public class Zmienne {
 
         boolean sun = true; //false
 
+        // https://github.com/przemjan/trzeciaIgr1r2024
+
     }
 }
